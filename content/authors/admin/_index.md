@@ -2,8 +2,8 @@
 # Display name
 title: Piotr Suder
 
-<!-- # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu -->
+# Name pronunciation (optional)
+name_pronunciation: Chien Shiung Wu
 
 # Full name (for SEO)
 first_name: Piotr
